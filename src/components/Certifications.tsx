@@ -18,7 +18,7 @@ const certifications = [
     date: "2024",
     description: "Completed advanced course on cloud computing fundamentals, architectures, and deployment models.",
     skills: ["Cloud Architecture", "Virtualization", "IaaS", "PaaS", "SaaS"],
-    link: "#"
+    link: "https://drive.google.com/file/d/1fyF8dq3L5YUx-oSL246_A4HVsqQQZcDG/view?usp=sharing"
   },
   {
     title: "Programming Skills in Python",
@@ -26,7 +26,7 @@ const certifications = [
     date: "2024",
     description: "Demonstrated proficiency in Python programming including data structures, algorithms, and practical applications.",
     skills: ["Python", "Programming", "Data Structures", "Algorithms"],
-    link: "#"
+    link: "https://drive.google.com/file/d/1gZtsdIQNEyfGD-mBwPnDFL4NLjbh5a_U/view?usp=sharing"
   }
 ];
 

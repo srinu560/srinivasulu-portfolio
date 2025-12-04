@@ -8,14 +8,14 @@ const projects = [
     title: "Intelligent Thyroid Diagnosis System",
     description: "AI-powered system for diagnosing thyroid conditions using machine learning algorithms. Implements advanced ML techniques to provide accurate diagnosis based on medical data.",
     tech: ["Python", "Machine Learning", "AI", "Data Analysis"],
-    github: "https://github.com/srinivasulu798960",
-    demo: "#"
+    github: "https://github.com/srinu560/Intelligent-Thyroid-Diagnosis-System",
+    demo: "https://www.linkedin.com/posts/srinivasulu-reddy-sandireddy-9269a3265_ai-deeplearning-machinelearning-activity-7387790814111809536-F6bA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbv24BWNP4IEB3LzAR7WH-KU8JwLBA_yE"
   },
   {
     title: "Object Detection using YOLO",
     description: "Real-time object detection system implementing YOLO (You Only Look Once) algorithm. Capable of identifying and classifying multiple objects in images and video streams.",
     tech: ["Python", "YOLO", "Computer Vision", "Deep Learning"],
-    github: "https://github.com/srinivasulu798960",
+    github: "https://github.com/srinu560/Object_Detection_Project",
     demo: "#"
   }
 ];

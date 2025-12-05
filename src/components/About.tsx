@@ -11,11 +11,8 @@ const About = () => {
         
         <div className="max-w-3xl mx-auto text-center mb-16">
           <p className="text-lg text-muted-foreground leading-relaxed">
-            I am a fresher certified in the AWS re/Start program, looking to start my career in cloud computing. 
-            I want to apply the skills I have learned and gain practical experience in real projects. 
-            I am eager to learn, grow, and contribute positively in a professional environment. 
-            With a Bachelor&apos;s degree in Computer Science &amp; Engineering (CGPA: 8.23) from Andhra Loyola Institute 
-            of Engineering and Technology, I bring strong technical skills and a passion for innovation.
+            I am a highly motivated Computer Science graduate and AWS re/Start certified professional  with a distinct focus on Python, AWS Cloud, and AI/ML. My technical foundation is built on a deep understanding of Networking principles (VPC, Subnets, Security Groups), which I use to architect secure and scalable cloud solutions.
+            I have practical experience engineering serverless applications using AWS Lambda and developing hybrid AI/ML systems for medical diagnostics. I am seeking a challenging role where I can leverage my expertise in Python programming and cloud infrastructure to build intelligent, data-driven applications.
           </p>
         </div>
 

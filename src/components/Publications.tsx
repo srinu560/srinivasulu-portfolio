@@ -11,7 +11,7 @@ const publications = [
     year: "2024",
     description: "Research paper on developing an AI-powered diagnostic system for thyroid conditions using advanced machine learning algorithms. The system demonstrates high accuracy in early detection and classification of thyroid disorders.",
     keywords: ["Machine Learning", "Healthcare AI", "Thyroid Diagnosis", "Python", "Data Analysis"],
-    link: "#",
+    link: "https://www.ijaresm.com/search?x=0&y=0&keyword2=Intelligent+Thyroid+Diagnosis%3A",
     type: "Conference Paper"
   }
 ];

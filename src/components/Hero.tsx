@@ -28,11 +28,12 @@ const Hero = () => {
           Srinivasulu Reddy Sandireddy
         </h1>
         <h2 className="text-2xl md:text-3xl text-muted-foreground mb-8 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-150">
-          AWS Certified Cloud Practitioner | Python Developer
+          AWS Certified Cloud Practitioner | Python Developer | AI/ML Enthusiast
         </h2>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-300">
-          AWS re/Start certified professional eager to apply cloud computing skills in real-world projects. 
-          Focused on leveraging AWS services and AI/ML technologies to build innovative solutions.
+          Motivated fresher looking to launch a career in Cloud and AI. 
+          I bring practical knowledge of AWS services, Python development, and Machine Learning models.
+          I am eager to apply these skills to build innovative, scalable solutions in a professional environment.
         </p>
         
         <div className="flex gap-4 justify-center mb-12 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-500">
@@ -55,10 +56,10 @@ const Hero = () => {
         </div>
 
         <div className="flex gap-6 justify-center animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-700">
-          <a href="https://github.com/srinivasulu798960" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://github.com/srinu560" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Github className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com/in/srinivasulu-reddy" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://www.linkedin.com/in/srinivasulu-reddy-sandireddy-9269a3265/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Linkedin className="w-6 h-6" />
           </a>
           <a href="mailto:srinivasulu798960@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">

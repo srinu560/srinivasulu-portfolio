@@ -4,12 +4,20 @@ import { Button } from "@/components/ui/button";
 import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
+  
   {
     title: "Intelligent Thyroid Diagnosis System",
     description: "AI-powered system for diagnosing thyroid conditions using machine learning algorithms. Implements advanced ML techniques to provide accurate diagnosis based on medical data.",
     tech: ["Python", "Machine Learning", "AI", "Data Analysis"],
     github: "https://github.com/srinu560/Intelligent-Thyroid-Diagnosis-System",
     demo: "https://www.linkedin.com/posts/srinivasulu-reddy-sandireddy-9269a3265_ai-deeplearning-machinelearning-activity-7387790814111809536-F6bA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbv24BWNP4IEB3LzAR7WH-KU8JwLBA_yE"
+  },
+  {
+    title: "Serverless Social Media News Aggregator",
+    description: "A fully automated, event-driven news aggregation platform built on AWS serverless architecture. It fetches and categorizes multilingual news from global and regional Indian sources every hour using Lambda and EventBridge, serving a responsive frontend via API Gateway and S3.",
+    tech: ["AWS Lambda", "Python", "DynamoDB", "API Gateway", "Amazon S3", "EventBridge"],
+    github: "https://github.com/srinu560/Social_Media_News_Aggregator",
+    demo: "https://www.linkedin.com/posts/srinivasulu-reddy-sandireddy-9269a3265_awsarchitecture-serverless-lambda-activity-7386380005435441152-Svzc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbv24BWNP4IEB3LzAR7WH-KU8JwLBA_yE"
   },
   {
     title: "Object Detection using YOLO",

@@ -1,11 +1,48 @@
 import { Badge } from "@/components/ui/badge";
 
 const skills = {
-  "Cloud Platform": ["Amazon Web Services (AWS)"],
-  "AWS Services": ["EC2", "S3", "RDS", "IAM", "VPC", "Lambda", "CloudFront", "CloudWatch", "Route 53", "EBS", "ELB"],
-  "Programming / Scripting": ["Python", "Bash"],
-  "Networking": ["VPC", "Subnets", "NAT", "IGW", "Route Table", "Security Groups"],
-  "Other Skills": ["Artificial Intelligence", "Machine Learning"]
+  {
+  "Cloud/DevOps": [
+    "AWS (EC2, S3, Lambda, RDS, VPC, IAM, API Gateway)",
+    "Git",
+    "GitHub"
+  ],
+  "Programming Languages": [
+    "Python (primary)",
+    "Java",
+    "C"
+  ],
+  "Operating Systems": [
+    "Linux",
+    "Windows"
+  ],
+  "Networking": [
+    "VPC",
+    "Subnets",
+    "Security Groups",
+    "NAT",
+    "IGW"
+  ],
+  "AI/ML": [
+    "Machine Learning Algorithms (Regression, Classification, Clustering)",
+    "Deep Learning (ANN, CNN, RNN basics)",
+    "Model Training & Evaluation"
+  ],
+  "Libraries & Frameworks": [
+    "NumPy",
+    "Pandas",
+    "Scikit-learn",
+    "TensorFlow",
+    "Keras",
+    "OpenCV",
+    "Matplotlib",
+    "react.js (basic)"
+  ],
+  "Database": [
+    "MySQL",
+    "Mongo DB (basic knowledge)"
+  ]
+}
 };
 
 const Skills = () => {

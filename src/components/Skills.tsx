@@ -1,7 +1,6 @@
 import { Badge } from "@/components/ui/badge";
 
 const skills = {
-  {
   "Cloud/DevOps": [
     "AWS (EC2, S3, Lambda, RDS, VPC, IAM, API Gateway)",
     "Git",

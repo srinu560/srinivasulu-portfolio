@@ -7,10 +7,58 @@ const certifications = [
   {
     title: "AWS re/Start Program Trainee Certificate",
     issuer: "Tech Mahindra SMART Academy",
-    date: "2024",
+    date: "November, 2025",
     description: "Comprehensive cloud computing training program covering AWS services, cloud architecture, and hands-on labs.",
     skills: ["AWS", "Cloud Computing", "EC2", "S3", "RDS", "Lambda"],
     link: "#"
+  },
+  {
+    "title": "Google IT Support Professional Certificate",
+    "issuer": "Coursera | Google",
+    "date": "March 26, 2024",
+    "description": "Professional certificate covering five courses designed to prepare for entry-level roles in IT support, including hands-on assessments. [cite: 96, 97]",
+    "skills": ["Troubleshooting", "Customer Service", "Networking", "Operating Systems", "System Administration", "IT Security"],
+    "link": "https://coursera.org/verify/professional-cert/VS67C4S5XLU7"
+  },
+  {
+    "title": "Google Data Analytics Professional Certificate",
+    "issuer": "Coursera | Google",
+    "date": "March 13, 2024",
+    "description": "Eight-course professional certificate covering data preparation, processing, analysis, and visualization using standard industry tools. [cite: 58, 59, 60]",
+    "skills": ["Data Analysis", "Spreadsheets", "SQL", "Tableau", "R Programming", "Data Visualization"],
+    "link": "https://coursera.org/verify/professional-cert/H8UF9AXYBU9K"
+  },
+  {
+    title: "Programming Skills in Python",
+    issuer: "CISCO",
+    date: "2024",
+    description: "Demonstrated proficiency in Python programming including data structures, algorithms, and practical applications.",
+    skills: ["Python", "Programming", "Data Structures", "Algorithms"],
+    link: "https://drive.google.com/file/d/1gZtsdIQNEyfGD-mBwPnDFL4NLjbh5a_U/view?usp=sharing"
+  },
+  {
+    "title": "JavaScript Essentials 1 (JSE)",
+    "issuer": "Cisco Networking Academy | OpenEDG JavaScript Institute",
+    "date": "January 30, 2023",
+    "description": "Statement of Achievement for mastering core JavaScript syntax, variables, control flow, functions, and algorithmic thinking. [cite: 110, 111, 121]",
+    "skills": ["JavaScript", "Algorithmic Thinking", "Programming Fundamentals"],
+    "link": "https://drive.google.com/file/d/1ga0KnTTjSWxcKoFiCyxaADg5Nc0lv3qE/view?usp=sharing"
+  },
+  {
+    "title": "International Student Workshop on Data Science using Python",
+    "issuer": "Andhra Loyola Institute / Brainovision Solutions",
+    "date": "February 26, 2024",
+    "description": "International Level Student Workshop focused on learning Data Science concepts using Python.",
+    "skills": ["Data Science", "Python"],
+    "link": "https://drive.google.com/file/d/19A__4VrmjFmgIUsS0z_X4M4rFNtN7VV7/view?usp=sharing"
+  },
+  {
+    "title": "Software Testing Certification",
+    "issuer": "NPTEL | IIIT Bangalore",
+    "date": "July-October 2024",
+    "description": "12-week online certification course funded by the Ministry of Education, Govt of India.",
+    "skills": ["Software Testing"],
+    "link": "https://drive.google.com/file/d/19eHx893EtKJZvxpTPuS0jWOBXBXxgmfI/view?usp=sharing"
   },
   {
     title: "Cloud Computing",
@@ -20,14 +68,40 @@ const certifications = [
     skills: ["Cloud Architecture", "Virtualization", "IaaS", "PaaS", "SaaS"],
     link: "https://drive.google.com/file/d/1fyF8dq3L5YUx-oSL246_A4HVsqQQZcDG/view?usp=sharing"
   },
+  
   {
-    title: "Programming Skills in Python",
-    issuer: "CISCO",
-    date: "2024",
-    description: "Demonstrated proficiency in Python programming including data structures, algorithms, and practical applications.",
-    skills: ["Python", "Programming", "Data Structures", "Algorithms"],
-    link: "https://drive.google.com/file/d/1gZtsdIQNEyfGD-mBwPnDFL4NLjbh5a_U/view?usp=sharing"
-  }
+    "title": "Software Engineering and Agile Software Development",
+    "issuer": "Infosys Springboard",
+    "date": "August 30, 2023",
+    "description": "Course completion certificate covering software engineering principles and Agile development practices. [cite: 173, 175]",
+    "skills": ["Software Engineering", "Agile Development"],
+    "link": "https://drive.google.com/file/d/1Q34cXqVGDTekDrlBQOPmUxX6ZdQOvCZN/view?usp=sharing"
+  },
+  {
+    "title": "Continuous Integration and Delivery - DevOps",
+    "issuer": "Infosys Springboard",
+    "date": "September 13, 2023",
+    "description": "Course completion certificate focusing on CI/CD pipelines and DevOps methodologies. [cite: 73, 75]",
+    "skills": ["DevOps", "Continuous Integration", "Continuous Delivery"],
+    "link": "https://drive.google.com/file/d/1WlfHIagRtXnTOu6iVPRtaaqhbpQpYfxJ/view?usp=sharing"
+  },
+  {
+    "title": "Internship in Artificial Intelligence",
+    "issuer": "SkillDzire / AP State Council of Higher Education",
+    "date": "April 12, 2025",
+    "description": "Long-term internship program focusing on Artificial Intelligence organized in collaboration with Andhra Pradesh State Council of Higher Education. [cite: 191, 192, 193]",
+    "skills": ["Artificial Intelligence", "Computer Science"],
+    "link": "https://drive.google.com/file/d/1EyYdnZeOasoCFiGsTaHc9CYSVS8dOB-a/view?usp=sharing"
+  },
+  {
+    "title": "Internship in Data Science and Machine Learning",
+    "issuer": "HDLC Technologies",
+    "date": "July 29, 2023",
+    "description": "8-week internship program involving the successful completion of a project in Data Science and Machine Learning.",
+    "skills": ["Data Science", "Machine Learning"],
+    "link": "https://drive.google.com/file/d/1G7mTlylxnrmkdR1o2X9zjnNRudscfoz7/view?usp=sharing"
+  },
+  
 ];
 
 const Certifications = () => {

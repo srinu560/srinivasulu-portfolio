@@ -16,7 +16,7 @@ const projects = [
     description: "Real-time object detection system implementing YOLO (You Only Look Once) algorithm. Capable of identifying and classifying multiple objects in images and video streams.",
     tech: ["Python", "YOLO", "Computer Vision", "Deep Learning"],
     github: "https://github.com/srinu560/Object_Detection_Project",
-    demo: "#"
+    demo: "https://www.linkedin.com/posts/srinivasulu-reddy-sandireddy-9269a3265_real-time-object-detection-web-app-django-activity-7402615088303828992-03DR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbv24BWNP4IEB3LzAR7WH-KU8JwLBA_yE"
   }
 ];
 

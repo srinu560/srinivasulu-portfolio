@@ -64,13 +64,13 @@ const Contact = () => {
                 <h4 className="text-lg font-semibold">Connect with me</h4>
                 <div className="flex gap-4">
                   <Button variant="outline" size="lg" className="flex-1 border-primary/50 hover:bg-primary/10" asChild>
-                    <a href="https://github.com/srinivasulu798960" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/srinu560" target="_blank" rel="noopener noreferrer">
                       <Github className="w-5 h-5 mr-2" />
                       GitHub
                     </a>
                   </Button>
                   <Button variant="outline" size="lg" className="flex-1 border-primary/50 hover:bg-primary/10" asChild>
-                    <a href="https://linkedin.com/in/srinivasulu-reddy" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/srinivasulu-reddy-sandireddy-9269a3265/" target="_blank" rel="noopener noreferrer">
                       <Linkedin className="w-5 h-5 mr-2" />
                       LinkedIn
                     </a>

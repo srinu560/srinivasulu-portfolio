@@ -41,7 +41,6 @@ const skills = {
     "MySQL",
     "Mongo DB (basic knowledge)"
   ]
-}
 };
 
 const Skills = () => {
